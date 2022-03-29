@@ -1,0 +1,3 @@
+/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64/CMakeFiles/edit_cache.dir
+/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64/CMakeFiles/anrverification.dir

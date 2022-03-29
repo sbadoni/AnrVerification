@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/arm64-v8a'
+ninja: no work to do.

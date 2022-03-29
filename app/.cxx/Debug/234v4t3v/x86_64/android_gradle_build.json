@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sbadoni/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sbadoni/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "anrverification::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "anrverification",
+      "output": "/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/build/intermediates/cxx/Debug/234v4t3v/obj/x86_64/libanrverification.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/sbadoni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/sbadoni/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

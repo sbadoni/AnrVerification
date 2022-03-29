@@ -1,0 +1,7 @@
+Executable : /Users/sbadoni/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64
+anrverification
+jvmArgs : 
+

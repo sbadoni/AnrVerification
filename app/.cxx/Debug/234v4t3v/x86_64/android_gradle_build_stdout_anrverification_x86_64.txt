@@ -1,0 +1,8 @@
+ninja: Entering directory `/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/.cxx/Debug/234v4t3v/x86_64'
+[1/2] Building CXX object CMakeFiles/anrverification.dir/native-lib.cpp.o
+/Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/src/main/cpp/native-lib.cpp:11:79: warning: format specifies type 'int' but the argument has type 'size_t' (aka 'unsigned long') [-Wformat]
+    __android_log_print(ANDROID_LOG_ERROR, "AnrVerification", "LENGTH  %d\n", strlen(str));
+                                                                       ~~     ^~~~~~~~~~~
+                                                                       %zu
+1 warning generated.
+[2/2] Linking CXX shared library /Users/sbadoni/Documents/AndroidStudioProject/AnrVerification/app/build/intermediates/cxx/Debug/234v4t3v/obj/x86_64/libanrverification.so
